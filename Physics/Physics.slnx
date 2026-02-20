@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../Assets/Assets.csproj" Id="e314ce6d-e8a7-472e-a29f-4c1a65a54fd3" />
+  <Project Path="../Game/Game.csproj" />
+  <Project Path="../Graphics/Graphics.csproj" Id="ecc2e042-26a1-4a3b-8788-2b4944260619" />
+  <Project Path="../Scene/Scene.csproj" Id="7cd2171c-c2d3-4311-ac14-39e4694e29e4" />
+  <Project Path="Physics.csproj" />
+</Solution>
